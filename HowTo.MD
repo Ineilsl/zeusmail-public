@@ -1,5 +1,5 @@
-# Bienvenido al How To de ZeusMail
-[<img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png">](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+# Bienvenido al How To de ZeusMail [<img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png">](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 Este obra está bajo una, licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
 
 Antes que nada, te recomiendo pasarte por el README.TXT y continuar con este MarkDown.
