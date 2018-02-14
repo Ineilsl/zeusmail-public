@@ -3,19 +3,16 @@
 # INFO
 ######
 
-# ================================================================================
+# ============================================================================
 # |                               ZEUS.SH                                    |
-# ================================================================================
-# | Este Script es público, esta bajo una licencia CC. esto es lo que puedes     |
-# | hacer: Modificarlo, copiarlo, distribuirlo. En ningun caso permito la compra |
-# | venta de este script. puedes tomarlo como base. El uso de este script        |
-# | hacer: Copiarlo y Distribuirlo. En ningun caso permito la compra venta o     |
-# | edicion de este codigo. Puedes tomarlo como base. La distribucion de este    |
-# | implica la citación del autor, en el caso de que no se cite al autor se dara | 
-# | como incumplida la licencia de software.            Youtube: @NeilsADM       |
-# | como incumplida la licencia de software, a igual que la venta o modificacion |
-# | del mismo.                                          Youtube: @NeilsADM       |
-# ================================================================================
+# ============================================================================
+# | Este Script es público, esta bajo una licencia CC. esto es lo que puedes |
+# | hacer: Copiarlo y Distribuirlo. En ningun caso permito la compra venta o |
+# | edicion de este codigo. La distribucion de este, implica la citación del |
+# | autopr. En el caso de que no se cite al autor se dara como incumplida la |
+# | la licencia de software, al igual que la venta o modificacion del mismo. |
+# |                                                 Youtube: @NeilsADM       |
+# ============================================================================
 
 # PATH
 ######
