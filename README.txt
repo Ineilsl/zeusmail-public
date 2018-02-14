@@ -8,7 +8,7 @@
 || /_______ \___  >____//____  >____|__  (____  /__|____/ ||
 ||         \/   \/           \/        \/     \/          ||
 ============================================================
-||  Ver 0.0.1                                 11/02/2018  ||
+||  Ver 0.0.2                                 11/02/2018  ||
 ||       ==========================================       ||
 ||       %$\)))))))))))))))))@(((((((((((((((((/%$%       ||
 ||       %$%\)))))))@%))))))@@@(((((((%@((((((/%:$%       ||
@@ -21,23 +21,23 @@
 ||       %$:::::::::::::::::@@&::::::::::::::::::$%       ||
 ||       %$:::::::::::::::::@@&::::::::::::::::::$%       ||
 ||       ==========================================       ||
-||  11/02/2018                                 Ver 0.0.1  ||
+||  11/02/2018                                 Ver 0.0.2  ||
 ============================================================
 ||                        WARNING!                        ||
 ============================================================
 || Esta es una version EARLY, con esto quiero decir que   ||
 || no es la version final del programa, simplemente es una||
 || versión demo, obviamente esto se puede mejorar y       ||
-|| optimizar para mas información lee los comentarios.    ||
+|| optimizar, para mas información lee los comentarios.   ||
 || Todo el codigo del programa esta bajo una licencia CC  ||
 || Permitiendose la distribución y copia del mismo pero   ||
 || no la edición ni venta. SU FINALIDAD ES DIDACTICA.     ||
 || ZeusMail Simplemente es un Script que notifica la      ||
 || disposición de ofertas de trabajo al usuario.          ||
 || En versiones mas desarrolladas (Comerciales) este      ||
-|| script se autentica mediante url y envía un post cuyo  ||
-|| fin es registarse en una oferta de empleo y notifica   ||
-|| al usuario con la tool incluida en esta version.       ||
+|| script se autentica mediante url, cuyo fin es          ||
+|| registarse en una oferta de empleo y notifica al       ||
+|| usuario con la tool incluida en esta version.          ||
 ============================================================
 ||                        CHANGELOG                       ||
 ============================================================
