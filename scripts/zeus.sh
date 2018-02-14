@@ -9,7 +9,7 @@
 # | Este Script es público, esta bajo una licencia CC. esto es lo que puedes |
 # | hacer: Copiarlo y Distribuirlo. En ningun caso permito la compra venta o |
 # | edicion de este codigo. La distribucion de este, implica la citación del |
-# | autopr. En el caso de que no se cite al autor se dara como incumplida la |
+# | autor. En el caso de que no se cite al autor se dara como incumplida la  |
 # | la licencia de software, al igual que la venta o modificacion del mismo. |
 # |                                                 Youtube: @NeilsADM       |
 # ============================================================================
