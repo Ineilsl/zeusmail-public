@@ -1,45 +1,23 @@
 {
-	"application":{
-	
-		"zeus":{
-			"username":"hackme",
-			"password":"hackme",
-			"email":"hackme@zeusmail.com"
+	"feeds":[
+		{
+			"webname":"Tecnoempleo",
+			"details":"Madrid",
+			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
+			"email":"default"
+			"user":[
+				"username":"hackme",
+				"password":"hackme"
+			],
+			"process":true
 		},
-		"feeds":[
-			{
-				"webname":"Tecnoempleo",
-				"details":"Madrid",
-				"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
-				"user":[
-					"username":"hackme",
-					"password":"hackme"
-				],
-				"email":"hackme"
-			},
-			{
-				"webname":"Tecnoempleo",
-				"details":"Barcelona",
-				"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
-				"user":false,
-				"process":false
-			},
-			{
-			
-			}
-		],
-		"generics":{
-			{
-				"email":[
-					{
-						"email":{
-							"alias":"hackme"
-							"title":"Sending my cv"
-						}
-					}				
-				],
-				"user":
-			}
+		{
+			"webname":"Tecnoempleo",
+			"details":"Barcelona",
+			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
+			"user":false,
+			"email":"default"
+			"process":false
 		}
-	}
+	],
 }

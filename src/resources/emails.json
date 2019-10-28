@@ -1,0 +1,23 @@
+"email":[
+					{
+		"default":{
+			"From":"hackme@zeusmail.com",
+			"cc":['hackme@zeusmail.com'],
+			"title":"Sending my DEFAULT ZeusMail",
+			"body":"Hey hack me please this a DEFAULT message ZeusMail",
+			"attach":None
+		},
+		"custom_1":{
+			"cc":['hackme@zeusmail.com'],
+			"title":"Sending my CUSTOM2 ZeusMail cv",
+			"body":"Hey hack me please this a CUSTOM2 message ZeusMail",
+			"attach":None
+		},
+		"custom_2":{
+			"cc":['hackme@zeusmail.com'],
+			"title":"Sending my CUSTOM2 ZeusMail cv",
+			"body":"Hey hack me please this a CUSTOM2 message ZeusMail",
+			"attach":None
+		}
+	}
+]
