@@ -6,8 +6,10 @@
 			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
 			"email":"default",
 			"user":[
-				"username":"hackme",
-				"password":"hackme"
+				{
+					"username":"hackme",
+					"password":"hackme"
+				}
 			],
 			"process":true
 		},
