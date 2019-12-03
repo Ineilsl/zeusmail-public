@@ -1,33 +1,42 @@
-{ 
-   "email":[ 
-      { 
-         "default":{ 
+{
+   "email":[
+      {
+         "default":{
             "From":"hackme@zeusmail.com",
-            "cc":[ 
+            "cc":[
                "hackme@zeusmail.com",
                "hackme@zeusmail.com",
                "hackme@zeusmail.com"
+            ],
+            "cco":[
+              "hackme@zeusmail.com"
             ],
             "title":"Sending my DEFAULT ZeusMail",
             "body":"Hey hack me please this a DEFAULT message ZeusMail",
-            "attach":[ 
+            "attach":[
                "asdads.doc"
             ]
          },
-         "custom_1":{ 
-            "cc":[ 
+         "custom_1":{
+           "From":"hackme@zeusmail.com",
+            "cc":[
                "hackme@zeusmail.com",
                "hackme@zeusmail.com"
             ],
+            "cco":[
+              "hackme@zeusmail.com"
+            ],
             "title":"Sending my CUSTOM2 ZeusMail cv",
             "body":"Hey hack me please this a CUSTOM2 message ZeusMail",
-            "attach":[ 
+            "attach":[
                "asdads.doc",
                "asdasda.doc"
             ]
          },
-         "custom_2":{ 
+         "custom_2":{
+            "From":false,
             "cc":false,
+            "cco":false,
             "title":"Sending my CUSTOM2 ZeusMail cv",
             "body":"Hey hack me please this a CUSTOM2 message ZeusMail",
             "attach":false

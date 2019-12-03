@@ -1,0 +1,20 @@
+{
+	"feeds":[
+		{
+			"webname":"Tecnoempleo [MADRID]",
+			"details":"Madrid",
+			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
+			"email":"default",
+			"user":false,
+			"process":true
+		},
+		{
+			"webname":"Tecnoempleo [MALAGA]",
+			"details":"Malaga",
+			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=264",
+			"user":false,
+			"email":"default",
+			"process":false
+		}
+	]
+}

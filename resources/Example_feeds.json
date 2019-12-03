@@ -5,21 +5,19 @@
 			"details":"Madrid",
 			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
 			"email":"default",
-			"user":[
-				{
-					"username":"hackme",
-					"password":"hackme"
-				}
-			],
+			"user":{
+				"username":"hackme",
+				"password":"hackme"
+			},
 			"process":true
 		},
 		{
 			"webname":"Tecnoempleo",
-			"details":"Barcelona",
-			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=263",
+			"details":"Malaga",
+			"url":"https://www.tecnoempleo.com/alertas-empleo-rss.php?pr=264",
 			"user":false,
 			"email":"default",
-			"process":false
+			"process":true
 		}
 	]
 }
