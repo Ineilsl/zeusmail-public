@@ -12,6 +12,24 @@ def CreateDb(db):
     conn = None
     try:
         conn = sqlite3.connect(db)
+        SQL = """ CREATE TABLE IF NOT EXISTS jobs (
+                                                    Empresa text,
+                                                    Provincia text,
+                                                    Poblacion text,
+                                                    Descripcion text,
+                                                    Tecnologias text,
+                                                    Contrato text,
+                                                    Salario text,
+                                                    Experiencia text,
+                                                    Funciones text,
+                                                    Formacion text,
+                                                    Titulo text,
+                                                    Link text,
+                                                    ID text,
+                                                    Publicacion text,
+                                                    InsercionDB datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+                                                  ); """
+        execute(conn, SQL)
     except Error as e:
         print(e)
     finally:
@@ -20,6 +38,12 @@ def CreateDb(db):
 
 def ConnectionDb(db):
     return sqlite3.connect(db)
+
+def execute(conn, SQL):
+    c = conn.cursor()
+    c.execute(SQL)
+    conn.commit()
+    return c
 
 def mainDb():
     if os.path.isfile(Fops.ParseCfg('AppPaths','app.database')) == False:
