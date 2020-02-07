@@ -45,6 +45,8 @@ def execute(conn, SQL):
     conn.commit()
     return c
 
+    
+
 def mainDb():
     if os.path.isfile(Fops.ParseCfg('AppPaths','app.database')) == False:
         sw = False
